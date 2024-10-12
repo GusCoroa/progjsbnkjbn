@@ -1,2 +1,0 @@
-# projectsPersonal
-projetos de praticas
